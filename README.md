@@ -1,8 +1,6 @@
-I am Raphaël, but most people call me Raph! I am a student..
-
+## ⚡ Technologies
 [![Gmail Badge](https://img.shields.io/badge/-contact@raphcloud.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@raphcloud.fr)](mailto:contact@raphcloud.fr)
 
-## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
