@@ -1,5 +1,5 @@
 ## ⚡ Technologies
-[![Gmail Badge](https://img.shields.io/badge/-contact@raphcloud.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@raphcloud.fr)](mailto:contact@raphcloud.fr)
+[![Gmail Badge](https://img.shields.io/badge/-contact@rapht.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@rapht.fr)](mailto:contact@rapht.fr)
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
