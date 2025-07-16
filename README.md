@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://x.com/Raph_tahiti" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Raph_tahiti-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-<a href="mailto:contact@rapht.fr" target="_blank"><img src="https://img.shields.io/badge/-contact@rapht.fr-c14438?style=flat-square" alt="Email" /></a>
-  <br />
+  <a href="mailto:contact@rapht.fr" target="_blank"><img src="https://img.shields.io/badge/📬Email-contact@rapht.fr-c14438?style=for-the-badge" alt="Email" /></a>
+<br/>
   <a href="https://rapht.fr" target="_blank"><img src="https://img.shields.io/badge/Site-rapht.fr-red?style=for-the-badge&logo=safari" alt="Site perso" /></a>
 </div>
 
